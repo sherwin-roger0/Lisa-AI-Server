@@ -133,7 +133,7 @@ traitlets==5.8.0
 typing-inspect==0.9.0
 typing_extensions==4.7.1
 uri-template==1.2.0
-urllib3==2.0.4
+urllib3==2.0.7
 waitress==2.1.2
 wcwidth==0.2.5
 webcolors==1.12
