@@ -25,7 +25,7 @@ dataclasses-json==0.5.14
 debugpy==1.6.4
 decorator==5.1.1
 defusedxml==0.7.1
-dnspython==2.4.2
+dnspython==2.6.1
 duckduckgo-search==3.8.5
 entrypoints==0.4
 executing==1.2.0
